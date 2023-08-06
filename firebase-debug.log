@@ -60,3 +60,6 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as Gaush1 
 [info] 
+[debug] [2023-08-06T14:55:55.267Z] >>> [apiv2][query] GET https://api.github.com/repos/Gaush1/Portfolio/actions/secrets/public-key type=owner
+[debug] [2023-08-06T14:55:56.482Z] <<< [apiv2][status] GET https://api.github.com/repos/Gaush1/Portfolio/actions/secrets/public-key 401
+[debug] [2023-08-06T14:55:56.482Z] <<< [apiv2][body] GET https://api.github.com/repos/Gaush1/Portfolio/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
